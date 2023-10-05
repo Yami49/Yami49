@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yami49
-- 👀 I’m interested in Reading and Boxing
 - 🌱 I’m currently learning Java, C, C++, Assembler, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me georgiosgerontidis1@gmail.com
